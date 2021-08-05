@@ -7,6 +7,12 @@
     <groupId>com.fc</groupId>
     <artifactId>GitHub_Dome</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+<dependencies>
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+        <version>2.5.2</version>
+    </dependency>
+</dependencies>
 
 </project>
